@@ -107,28 +107,27 @@ Teaching assistant
 
 ## LEADERSHIP AND PUBLIC SERVICE
 
-**2016 – 2017**
-
+**2016 – 2017**  
 Vice-president  
 Chairman of Executive Committee  
 *Students’ Union, Shandong Normal University*
 
-**2015 – 2016**
+**2015 – 2016**  
 Minister of Literatures and Arts Department  
 *Students’ Union, Shandong Normal University*
 
-**2016**
+**2016**  
 Organizing Committee Chair  
 *30th Top Ten Campus Singers Competition of Shandong Normal University*
 
-**2015**
+**2015**  
 Organizing Committee Chair  
 *Golden Microphone Host Competition of Shandong Normal University*
 
-**2015 – 2016**
+**2015 – 2016**  
 Committee Member of Network Department  
 *Students’ Union, School of Life Sciences, Shandong Normal University*
 
-**2014 – 2015**
+**2014 – 2015**  
 Member of Rights and Interests Department  
 *Students’ Union, Shandong Normal University*

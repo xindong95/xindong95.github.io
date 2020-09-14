@@ -127,9 +127,9 @@ footer:
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "https://bitbucket.org/XinDong95"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   url: "https://bitbucket.org/XinDong95"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url:
