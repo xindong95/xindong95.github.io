@@ -84,7 +84,7 @@ Teaching assistant
 
 - Outstanding Graduates Awards of Shandong Province, *Human Resources and Social Department of Shandong Province*  
 - National Encouragement Scholarship  
-- The First Prize of The Fifteenth Challenge Cup in Shandong, *Shandong Communist Youth League*  
+- The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Communist Youth League*  
 - Advanced Individual of Extracurricular Science and Technology Innovation Activities, *Shandong Normal University*  
 - Excellent Student Cadre in Shandong, *Shandong Provincial Education Department*  
 
