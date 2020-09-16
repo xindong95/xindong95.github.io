@@ -23,7 +23,7 @@ en: &DEFAULT_EN
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Updated:"
-  comments_label             : "Leave a comment\nI use disqus as comments provider, if you can not see comment box below, disqus might block in your region"
+  comments_label             : "Leave a comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
