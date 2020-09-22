@@ -86,14 +86,14 @@ To make it as a checklist:
 - Install packages you need with `conda install`
 - Enjoy
 
-Here are some software bioinformaticians use and you may interest in, and all of them can install by conda:  
+Here are some software bioinformaticians use and you may interest in as well. Besides, all of them can be installed by conda:  
 
-- samtools
-- bedtools
 - bwa
 - macs2
 - STAR
 - DESeq2
+- bedtools
+- samtools
 - Seurat
 
 Have a try with the above and tell me any feedback in the comments. Thanks!  
