@@ -9,11 +9,11 @@ tags:
   - software
 ---
 
-For green hands to bioinformatics, how to install softwares always is the first obstacle to overcome. In fact, not only newbies meet this problem, but also seniors meet errors or warnings (often ignored) when install new tools or try new methods. Remarkably, some old packages you still need in your work - regenerate their paper's results or use their subfunctions - are extremely difficult to install. Here I would like to suggest how I configure my work environment.  
+For green hands to bioinformatics, how to install software always is the first obstacle to overcome. In fact, not only newbies meet this problem, but also seniors meet errors or warnings (often ignored) when install new tools or try new methods. Remarkably, some old packages you still need in your work - regenerate their paper's results or use their subfunctions - are extremely difficult to install. Here I would like to suggest how I configure my work environment.  
 
 > P.S. Since I use macOS and Linux in my daily work, I'll explain these two systems more clearly. Maybe later, I will add Windows as well.  
 
-First of all, a package manager is quite useful in your work. It helps you manage package version, install and uninstall, add environment variables, and so on. Homebrew, Conda even NPM are all excellent package managers. They are quite like app stores on your smartphone. Homebrew not very specific to bioinformatics but universal software and most used in macOS. NPM is a package manager specific to Javascript. Conda has become a new standard for bioinformatics softwares. If a new bioinformatics software does not provide a conda version, the first opinion that comes to me is that it might be hard to install and uninstall thoroughly in the future.  
+First of all, a package manager is quite useful in your work. It helps you manage package version, install and uninstall, add environment variables, and so on. Homebrew, Conda even NPM are all excellent package managers. They are quite like app stores on your smartphone. Homebrew not very specific to bioinformatics but universal software and most used in macOS. NPM is a package manager specific to Javascript. Conda has become a new standard for bioinformatics software. If a new bioinformatics software does not provide a conda version, the first opinion that comes to me is that it might be hard to install and uninstall thoroughly in the future.  
 
 When you search conda on google or other searching engines, here comes two results: anaconda and miniconda.  
 
@@ -86,7 +86,7 @@ To make it as a checklist:
 - Install packages you need with `conda install`
 - Enjoy
 
-Here are some softwares that bioinformaticians use and you may interest in as well. Besides, all of them can be installed by conda:  
+Here are some software that bioinformaticians use and you may interest in as well. Besides, all of them can be installed by conda:  
 
 - bwa (A mapping software)
 - macs2 (Used for peak calling)
