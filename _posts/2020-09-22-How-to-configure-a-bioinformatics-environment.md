@@ -100,6 +100,6 @@ Have a try with the above and tell me any feedback in the comments.
 
 ------
 
-The reason I wrote this blog is that I met a bunch of errors when I try to update R in my base environment. The issue may be related to [this](https://github.com/conda/conda/issues/9367). Whatever I run `conda install -c conda-forge r=4.0` or `conda update -c conda-forge r`, the errors and conflict warning shows up endlessly. At last, I figure out the reason is that I have changed to another conda mirrors before. When I try to update software from the official sources, it conflicts with the previous mirror. After I uninstall all software from the third-party mirror, The R packages finally were updated successfully.
+The reason I wrote this blog is that I met a bunch of errors when I try to update R in my base environment. The issue may be related to [this](https://github.com/conda/conda/issues/9367). Whatever I run `conda install -c conda-forge r=4.0` or `conda update -c conda-forge r`, the errors and conflict warning shows up endlessly. At last, I figure out the reason is that I have changed to another conda mirrors before. When I try to update software from the official sources, it conflicts with the previous mirror. After I uninstall all software from the third-party mirror, the R packages finally were updated successfully.
 
 ![conda tsinghua conflict](/assets/images/posts_images/2020-09/conda-tsinghua-conflict.png)  
