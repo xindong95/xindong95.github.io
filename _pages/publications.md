@@ -12,7 +12,7 @@ last_modified_at: 2020-09-16
 
 <!-- - title [[Web]()] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/)] [[PDF](/assets/pdf/papers)] -->
 
-- Sun D\*, Wang J\*, Han Y\*, **Dong X**, Ge J, Zheng R, Shi X, Wang B, Li Z, Ren P, Sun L, Yan Y, Zhang P, Zhang F#, Li T#, Wang C#. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. Nucleic Acids Res. 2020 Nov 12:gkaa1020. [[Web](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/33179754/)] [[PDF](/assets/pdf/papers/Sun%20et%20al_TISCH.pdf)]
+- Sun,D.\*, Wang,J.\*, Han,Y.\*, **Dong,X.**, Ge,J., Zheng,R., Shi,X., Wang,B., Li,Z., Ren,P., Sun,L., Yan,Y., Zhang,P., Zhang,F.#, Li,T.#, Wang,C.# (2020) TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. Nucleic Acids Res, 10.1093/nar/gkaa1020. [[Web](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/33179754/)] [[PDF](/assets/pdf/papers/Sun%20et%20al_TISCH.pdf)]
 
 - Chen,C.-H., Zheng,R., Tokheim,C., **Dong,X.**, Fan,J., Wan,C., Tang,Q., Brown,M., Liu,J.S., Meyer,C.A. #, Liu,X.S.# (2020) Determinants of transcription factor regulatory range. Nature Communications, 11, 2472. [[Web](https://www.nature.com/articles/s41467-020-16106-x)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/32424124/)] [[PDF](/assets/pdf/papers/Chen%20et%20al_2020_Determinants%20of%20transcription%20factor%20regulatory%20range.pdf)]
 
