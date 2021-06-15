@@ -14,12 +14,12 @@ last_modified_at: 2021-06-15
 **Sep.2020 – Now**  
 Ph.D. Student in Bioinformatics  
 School of Life Sciences and Technology, Tongji University, China  
-<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu -->
+<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->
 
 **Sep.2018 – Aug.2020**  
 M.S. Candidate in Bioinformatics  
 School of Life Sciences and Technology, Tongji University, China  
-<!-- **Advisors:** Dr. Xiaole Shirley Liu & Dr. Xiaoyan Zhang & Dr. Zhiping Weng -->
+<!-- **Advisors:** Dr. Xiaole Shirley Liu & Dr. Xiaoyan Zhang & Dr. Zhiping Weng  -->
 
 **Sep.2014 – Jun.2018**  
 B.S. in Biotechnology  
@@ -28,16 +28,16 @@ School of Life Sciences, Shandong Normal University, China
 
 ## RESEARCH EXPERIENCE
 
-**2020 – Now**
-Develop Computational Methods for Single-cell ATAC-seq
-**Institute:** Tongji University, China
-<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu -->
+**2020 – Now**  
+Develop Computational Methods for Single-cell ATAC-seq  
+**Institute:** Tongji University, China  
+<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->  
 *Gene Regulation on Single-cell Level*  
 
 **2018 – 2020**  
 Epigenetics and Gene Regulation Research  
 **Institute:** Tongji University, China  
-<!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer -->
+<!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer  --> 
 *Large-scale Genomic Data Mining and Integration Analysis*  
 
 **2017 – 2018**  
@@ -116,9 +116,9 @@ Teaching assistant
 
 ## LEADERSHIP AND PUBLIC SERVICE
 
-**2020**
-Census Taker
-*7th Census of China*
+**2020**  
+Census Taker  
+*7th Census of China*  
 
 **2016 – 2017**  
 Vice-president  
