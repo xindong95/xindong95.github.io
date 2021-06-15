@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2020-09-16
+last_modified_at: 2021-06-15
 ---
 
 [[PDF Version](/assets/pdf/cv/CV_XinDong.pdf)]
@@ -14,12 +14,12 @@ last_modified_at: 2020-09-16
 **Sep.2020 – Now**  
 Ph.D. Student in Bioinformatics  
 School of Life Sciences and Technology, Tongji University, China  
-<!-- **Advisors:** Dr. Xiaole Shirley Liu & Dr. Chenfei Wang & Dr. Xiaoyan Zhang   -->
+<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu -->
 
 **Sep.2018 – Aug.2020**  
 M.S. Candidate in Bioinformatics  
 School of Life Sciences and Technology, Tongji University, China  
-<!-- **Advisors:** Dr. Zhiping Weng & Dr. Xiaole Shirley Liu & Dr. Xiaoyan Zhang   -->
+<!-- **Advisors:** Dr. Xiaole Shirley Liu & Dr. Xiaoyan Zhang & Dr. Zhiping Weng -->
 
 **Sep.2014 – Jun.2018**  
 B.S. in Biotechnology  
@@ -28,15 +28,22 @@ School of Life Sciences, Shandong Normal University, China
 
 ## RESEARCH EXPERIENCE
 
-**2018 – Now**  
+**2020 – Now**
+Develop Computational Methods for Single-cell ATAC-seq
+**Institute:** Tongji University, China
+<!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu -->
+*Gene Regulation on Single-cell Level*  
+
+**2018 – 2020**  
 Epigenetics and Gene Regulation Research  
 **Institute:** Tongji University, China  
-<!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Chenfei Wang  -->
+<!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer -->
+*Large-scale Genomic Data Mining and Integration Analysis*  
 
 **2017 – 2018**  
 Undergraduate Dissertation Research  
 **Institute:** Shandong Normal University, China  
-<!-- **Advisor:** Dr. Chengqiang He   -->
+<!-- **Advisor:** Dr. Chengqiang He  -->
 *Rapid establishment of H7N9 dominant lineage by intragenic recombination in HA segment*  
 
 **2016 – 2017**  
@@ -108,6 +115,10 @@ Teaching assistant
 - Advanced Individual of Freshman Corps in Military Training, *Shandong Normal University*  
 
 ## LEADERSHIP AND PUBLIC SERVICE
+
+**2020**
+Census Taker
+*7th Census of China*
 
 **2016 – 2017**  
 Vice-president  
