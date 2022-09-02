@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2021-06-15
+last_modified_at: 2022-09-02
 ---
 
 [[PDF Version](/assets/pdf/cv/CV_XinDong.pdf)]
