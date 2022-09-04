@@ -31,33 +31,33 @@ School of Life Sciences, Shandong Normal University, China
 ### Graduate Student, Tongji University (2018-Present)
 
 - Developing Computational Methods for Single-cell and Spatial Data  
-**Institute:** Tongji University, China  
+<!-- **Institute:** Tongji University, China   -->
 <!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->  
 
 - Large-scale Genomic Data Mining and Integration Analysis  
-**Institute:** Tongji University, China  
+<!-- **Institute:** Tongji University, China   -->
 <!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer  --> 
 
 ### Undergraduate Student, Shandong Normal University (2014-2018)
 
 - Rapid establishment of H7N9 dominant lineage by intragenic recombination in HA segment  
 *Undergraduate Dissertation Research*  
-**Institute:** Shandong Normal University, China  
+<!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He  -->
 
 - Screening of Newcastle Disease Virus Heat-Resistant Vaccine by Homologous Recombination  
 *Undergraduate Innovation Program (Presided)*  
-**Institute:** Shandong Normal University, China  
+<!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He -->
 
 - The Origin, Adaptive Evolution and Population Dynamics of Infectious Chicken Anemia Virus in China
 *Undergraduate Innovation Program (Involved)*  
-**Institute:** Shandong Normal University, China  
+<!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He -->
 
 - Diversity of fish in Nansi Lak
 *Undergraduate Innovation Program (Involved)*  
-**Institute:** Shandong Normal University, China  
+<!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisors:** Dr. Rongshu Fu & Dr. Mingsheng Miao -->
 
 ## CONFERENCES
@@ -72,13 +72,13 @@ School of Life Sciences, Shandong Normal University, China
 ## TEACHING
 
 - 2022  
-Teaching assistant, Summer Bioinformatics Course, School of Life Science and Technology, Tongji University, 2021, Shanghai, China
+Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2022, Shanghai, China
 
 - 2021  
-Teaching assistant, Summer Bioinformatics Course, School of Life Science and Technology, Tongji University, 2021, Shanghai, China
+Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2021, Shanghai, China
 
 - 2020  
-Teaching assistant, Summer Bioinformatics Course, School of Life Science and Technology, Tongji University, 2020, Shanghai, China
+Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2020, Shanghai, China
 
 - 2019  
 Teaching assistant, Dragon Star Course, 14th International Bioinformatics Workshop, 2019, Beijing, China
