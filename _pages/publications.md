@@ -12,7 +12,7 @@ last_modified_at: 2022-09-02
 
 <!-- - title [[Web]()] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/)] [[PDF](/assets/pdf/papers)] -->
 
-- **Dong, X.\***; Tang, K.\*; Xu, Y.; Wei, H.; Han, T.; Wang, C. # (2022) Single-Cell Gene Regulation Network Inference by Large-Scale Data Integration. bioRxiv July 6, 2022, p 2022.02.19.481131. [[Web]](https://doi.org/10.1101/2022.02.19.481131). (in peer-review)
+- **Dong, X.\***; Tang, K.\*; Xu, Y.; Wei, H.; Han, T.; Wang, C. # (2022) Single-Cell Gene Regulation Network Inference by Large-Scale Data Integration. bioRxiv July 6, 2022, p 2022.02.19.481131. [[Web]](https://doi.org/10.1101/2022.02.19.481131). (Accepted by NAR)
 
 - Xu, R.\*; Li, S.\*; Wu, Q.\*; Li, C.\*; Jiang, M.\*; Guo, L.; Chen, M.; Yang, L.; **Dong, X.**; Wang, H.; Wang, C. #; Liu, X. #; Ou, X. #; Gao, S#. (2022) Stage-Specific H3K9me3 Occupancy Ensures Retrotransposon Silencing in Human Pre-Implantation Embryos. Cell Stem Cell, 29 (7), 1051-1066.e8. [[Web]](https://doi.org/10.1016/j.stem.2022.06.001).
 
