@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 author_profile: true
-last_modified_at: 2022-09-02
+last_modified_at: 2022-10-21
 ---
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=gzrxBacAAAAJ)] [[Research Gate](https://www.researchgate.net/profile/Xin_Dong47)] [[ORCID](https://orcid.org/0000-0002-7112-0224)] [[PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1d30fkpMdF_kft/bibliography/public/)]
@@ -12,9 +12,9 @@ last_modified_at: 2022-09-02
 
 <!-- - title [[Web]()] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/)] [[PDF](/assets/pdf/papers)] -->
 
-- **Dong, X.\***; Tang, K.\*; Xu, Y.; Wei, H.; Han, T.; Wang, C. # (2022) Single-Cell Gene Regulation Network Inference by Large-Scale Data Integration. bioRxiv July 6, 2022, p 2022.02.19.481131. [[Web](https://doi.org/10.1101/2022.02.19.481131)]. (Accepted by NAR)
+- **Dong, X.\***; Tang, K.\*; Xu, Y.; Wei, H.; Han, T.; Wang, C. # (2022) Single-Cell Gene Regulation Network Inference by Large-Scale Data Integration. Nucleic Acids Research, 10.1093/nar/gkac819. [[Web](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/36155797/)] [[PDF](/assets/pdf/papers/Dong%20et%20al_2022_Single-cell%20gene%20regulation%20network%20inference%20by%20large-scale%20data%20integration.pdf)]
 
-- Xu, R.\*; Li, S.\*; Wu, Q.\*; Li, C.\*; Jiang, M.\*; Guo, L.; Chen, M.; Yang, L.; **Dong, X.**; Wang, H.; Wang, C. #; Liu, X. #; Ou, X. #; Gao, S#. (2022) Stage-Specific H3K9me3 Occupancy Ensures Retrotransposon Silencing in Human Pre-Implantation Embryos. Cell Stem Cell, 29 (7), 1051-1066.e8. [[Web](https://doi.org/10.1016/j.stem.2022.06.001)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/35803226/)].
+- Xu, R.\*; Li, S.\*; Wu, Q.\*; Li, C.\*; Jiang, M.\*; Guo, L.; Chen, M.; Yang, L.; **Dong, X.**; Wang, H.; Wang, C. #; Liu, X. #; Ou, X. #; Gao, S#. (2022) Stage-Specific H3K9me3 Occupancy Ensures Retrotransposon Silencing in Human Pre-Implantation Embryos. Cell Stem Cell, 29 (7), 1051-1066.e8. [[Web](https://doi.org/10.1016/j.stem.2022.06.001)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/35803226/)]
 
 - Sun,D.\*, Wang,J.\*, Han,Y.\*, **Dong,X.**, Ge,J., Zheng,R., Shi,X., Wang,B., Li,Z., Ren,P., Sun,L., Yan,Y., Zhang,P., Zhang,F.#, Li,T.#, Wang,C.# (2020) TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. Nucleic Acids Research, 10.1093/nar/gkaa1020. [[Web](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/33179754/)] [[PDF](/assets/pdf/papers/Sun%20et%20al_TISCH.pdf)]
 

@@ -4,10 +4,10 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2022-09-02
+last_modified_at: 2022-10-21
 ---
 
-[[PDF Version](/assets/pdf/cv/CV_XinDong.pdf)]
+PDF Version [[CV](/assets/pdf/cv/CV_XinDong.pdf)] [[Resume](/assets/pdf/cv/Resume_XinDong.pdf)]
 
 ## EDUCATION
 
