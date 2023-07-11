@@ -133,8 +133,7 @@ Teaching assistant, Dragon Star Course, 14th International Bioinformatics Worksh
 
 - 2023  
 Director, Chairman of Organizing Committee  
-Graduation Party  
-*School of Life Sciences and Technology, Tongji University*
+*Graduation Party of School of Life Sciences and Technology, Tongji University*
 
 - 2022  
 Volunteer of PCR Test for COVID-19  
