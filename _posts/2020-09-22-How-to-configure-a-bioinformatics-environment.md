@@ -9,25 +9,28 @@ tags:
   - software
 ---
 
-For green hands to bioinformatics, how to install software always is the first obstacle to overcome. In fact, not only newbies meet this problem, but also seniors meet errors or warnings (often ignored) when install new tools or try new methods. Remarkably, some old packages you still need in your work - regenerate their paper's results or use their subfunctions - are extremely difficult to install. Here I would like to suggest how I configure my working environment.  
+Installing bioinformatics software is often the first obstacle for beginners. However, even experienced users can face errors or warnings when installing new tools or trying new methods. Some old packages that are still needed for work - regenerate their paper's results or use their subfunctions - can be extremely difficult to install. Here’s how I configure my working environment.
 
 > P.S. Since I use macOS and Linux in my daily work, I'll explain these two systems more clearly. Maybe later, I will add Windows as well.  
 
-First of all, a package manager is quite useful in your work. It helps you manage package version, install and uninstall, add environment variables, and so on. Homebrew, Conda even NPM are all excellent package managers. They are quite like app stores on your smartphone. Homebrew is not specific to bioinformatics but universal software and most used in macOS. NPM is a package manager specific to Javascript. Conda has become a new standard for bioinformatics software. If a new bioinformatics software does not provide a conda version, the first opinion that comes to me is that it might be hard to install and uninstall thoroughly in the future.  
+A package manager is very helpful for your work. It can help you with package versioning, installation, uninstallation, environment variables, and more. Homebrew, Conda, and NPM are all great package managers. They are similar to app stores on your smartphone. Homebrew is a general-purpose software manager that is mostly used on macOS. NPM is a package manager for Javascript. Conda has become a new standard for bioinformatics software. If a new bioinformatics software does not have a conda version, I would think that it might be hard to install and uninstall completely later.  
 
-When you search conda on google or other searching engines, here comes two results: anaconda and miniconda.  
+When you look for conda on google or other search engines, you will see two results: anaconda and miniconda.  
 
 > Conda is an open source package management system and environment management system for installing multiple versions of software packages and their dependencies and switching easily between them. It works on Linux, OS X and Windows, and was created for Python programs but can package and distribute any software.  
 
-The anaconda is regard as a python branch with many packages related to scientific computation. The miniconda only contains the package manager, and you can install other packages later.  
+Anaconda is a Python distribution that includes many packages related to scientific computation. Miniconda only includes the package manager, and you can install other packages later.  
 
 ![python packge](/assets/images/posts_images/2020-09/python-package.png)
 
 You can easily download miniconda here: [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
 
-Nowadays, most computers have already installed a 64-bit system, so choose the 64-bit version installation scripts to download. Python 2.X has deprecated in 2020 January, so select the Python 3.x version and use it in the future. On macOS or Linux, I prefer downloading the bash(*.sh) file. Then type `bash Miniconda3-latest-*-x86_64.sh` in the terminal and follow the instruction. It requires you to give a path where miniconda will be installed. When you almost finished installation, conda will ask you whether you want to initialize conda. Type `yes` to confirm this. It will add several lines of codes in your `~/.bashrc`(Linux) or `~/.bash_profile`(macOS) to make sure initialize conda base environment when you login terminal every time. If you typed `no`, you can find where the conda is - you set it before - then type `path_to_conda/conda init` to initialize conda. After all of those, you get miniconda installed.  
+Most computers nowadays have a 64-bit system installed, so choose the 64-bit version installation scripts to download. Python 2.X was deprecated in January 2020, so select the Python 3.x version and use it in the future. On macOS or Linux, I prefer downloading the bash (*.sh) file. Then type `bash Miniconda3-latest-*-x86_64.sh` in the terminal and follow the instructions. It will ask you to give a path where miniconda will be installed. When you are almost finished with the installation, conda will ask you whether you want to initialize conda. Type `yes` to confirm this. It will add several lines of code in your `~/.bashrc` (Linux) or `~/.bash_profile` (macOS) to initialize conda base environment when you log in to the terminal every time. If you typed `no`, you can find where conda is - you set it before - then type `path_to_conda/conda init` to initialize conda. After all of that, you will have miniconda installed.  
 
-Then you can use the conda commands to build your environment. I paste the instruction below. I suggest that use an independent environment for each project, which avoids conflicts with different packages. To create a new conda environment, use `conda create -n env_name`. You also can specify python version here, e.g. `conda create -n env_name python=2.7`  
+You can use conda commands to build your environment. Here are the instructions:  
+
+I suggest using an independent environment for each project to avoid conflicts with different packages. To create a new conda environment, use `conda create -n env_name`. You can also specify the Python version here, e.g., `conda create -n env_name python=2.7`.
+
 
 ```md
 conda is a tool for managing and deploying applications, environments and packages.
@@ -71,11 +74,11 @@ conda commands available from other packages:
 
 You can switch between the environments with `conda activate env_name` and `conda deactivate`. And you can install packages by `conda install`. You also can search whether a package has a conda distribution here: [https://anaconda.org](https://anaconda.org).  
 
-Conda has many channels that collect a catagory of packges, like conda-forge, bioconda, r, etc. You can create your own channel with your packages as well. Conda can install most of packages that you need. Like R, you can search it on [website](https://anaconda.org) then install it by `conda install -c conda-forge r-base`.  
+Conda has many channels that collect a category of packages, like conda-forge, bioconda, r, etc. You can create your own channel with your packages as well. Conda can install most of the packages that you need. For example, you can install R by conda install -c conda-forge r-base.
 
 ![conda r base](/assets/images/posts_images/2020-09/conda-r-base.png)
 
-Conda is a powerful tool to build environment and handle most of tricky things in the environment configuration. However, solving environment sometimes costs a lot of time and pops some error that makes me frustrated. At least, it pretty useful. When I build pipelines with snakemake, it suggests good compatibility with many packages.  
+Conda is a powerful tool for building environments and handling most of the tricky things in environment configuration. However, solving environment issues can sometimes take a lot of time and can be frustrating when errors occur. At least it is very useful. When building pipelines with Snakemake, it suggests good compatibility with many packages.
 
 Highlight it as a checklist:
 
@@ -100,6 +103,6 @@ Have a try with the above and tell me any feedback in the comments.
 
 ------
 
-The reason I wrote this blog is that I met a bunch of errors when I try to update R in my base environment. The issue may be related to [this](https://github.com/conda/conda/issues/9367). Whatever I run `conda install -c conda-forge r=4.0` or `conda update -c conda-forge r`, the errors and conflict warning shows up endlessly. At last, I figure out the reason is that I have changed to another conda mirrors before. When I try to update software from the official sources, it conflicts with the previous mirror. After I uninstall all software from the third-party mirror, the R packages finally were updated successfully.
+I wrote this blog because I encountered a lot of errors when I tried to update R in my base environment. The issue might be related to [this](https://github.com/conda/conda/issues/9367). No matter if I ran `conda install -c conda-forge r-base=4.0` or `conda update -c conda-forge r-base`, the errors and conflict warnings kept showing up.  Finally, I realized that the problem was that I had switched to another conda mirror before. When I tried to update software from the official sources, it conflicted with the previous mirror. After I uninstalled all software from the third-party mirror, the R packages were updated successfully.
 
 ![conda tsinghua conflict](/assets/images/posts_images/2020-09/conda-tsinghua-conflict.png)  

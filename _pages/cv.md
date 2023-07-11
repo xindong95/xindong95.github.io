@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2022-10-21
+last_modified_at: 2023-07-21
 ---
 
 PDF Version [[CV](/assets/pdf/cv/CV_XinDong.pdf)] [[Resume](/assets/pdf/cv/Resume_XinDong.pdf)]
@@ -30,11 +30,11 @@ School of Life Sciences, Shandong Normal University, China
 
 ### Graduate Student, Tongji University (2018-Present)
 
-- Developing Computational Methods for Single-cell and Spatial Data  
+- Developed and applied computational methods to analyze single-cell and spatial data  
 <!-- **Institute:** Tongji University, China   -->
 <!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->  
 
-- Large-scale Genomic Data Mining and Integration Analysis  
+- Large-scale genomic data mining and integration analysis  
 <!-- **Institute:** Tongji University, China   -->
 <!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer  --> 
 
@@ -45,12 +45,12 @@ School of Life Sciences, Shandong Normal University, China
 <!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He  -->
 
-- Screening of Newcastle Disease Virus Heat-Resistant Vaccine by Homologous Recombination  
+- Screening of newcastle disease virus heat-resistant vaccine by homologous recombination  
 *Undergraduate Innovation Program (Presided)*  
 <!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He -->
 
-- The Origin, Adaptive Evolution and Population Dynamics of Infectious Chicken Anemia Virus in China
+- The origin, adaptive evolution and population dynamics of infectious Chicken Anemia Virus in China  
 *Undergraduate Innovation Program (Involved)*  
 <!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisor:** Dr. Chengqiang He -->
@@ -60,7 +60,20 @@ School of Life Sciences, Shandong Normal University, China
 <!-- **Institute:** Shandong Normal University, China   -->
 <!-- **Advisors:** Dr. Rongshu Fu & Dr. Mingsheng Miao -->
 
+## Skills
+
+- **Bioinformatics**: High-throughput sequence data analysis; Single-cell data analysis; Epigenome data analysis; Machine Learning and statistic modeling  
+- **Programming**: Python; R; shell; JavaScript; MySQL  
+- **High performance computing**: Snakemake pipeline development; Python package development; Cloud computation; Cluster computation  
+- **User interface development**: Django; Vue.js; Bootstrap  
+- **Code version control system**: git  
+- **Server Management**: Ubuntu, CentOS  
+- **Experiment skills**: Cell culture, PCR, Gel electrophoresis  
+
 ## CONFERENCES
+
+- 2023
+  - Poster Speaking, 11st National Conference on Bioinformatics and Systems Biology, 2023, Guangzhou, China
 
 - 2021
   - Poster Speaking, Human Cell Atlas Asia 2021 Meeting, 2021, Online  
@@ -85,6 +98,10 @@ Teaching assistant, Dragon Star Course, 14th International Bioinformatics Worksh
 
 ## AWARDS AND DISTINCTIONS
 
+- 2022
+  - Outstanding Student Leader, *Tongji University*
+  - Social Activities Scholarship, *Tongji University*
+
 - 2019
   - Outstanding Graduate Student Scholarship, *Tongji University*
 
@@ -94,7 +111,7 @@ Teaching assistant, Dragon Star Course, 14th International Bioinformatics Worksh
 - 2017  
   - Outstanding Graduates Awards of Shandong Province, *Human Resources and Social Department of Shandong Province*  
   - National Encouragement Scholarship  
-  - The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Communist Youth League*  
+  - The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Youth League*  
   - Advanced Individual of Extracurricular Science and Technology Innovation Activities, *Shandong Normal University*  
   - Excellent Student Cadre in Shandong, *Shandong Provincial Education Department*  
 
@@ -113,6 +130,11 @@ Teaching assistant, Dragon Star Course, 14th International Bioinformatics Worksh
   - Advanced Individual of Freshman Corps in Military Training, *Shandong Normal University*  
 
 ## LEADERSHIP AND PUBLIC SERVICE
+
+- 2023
+Director, Chairman of Organizing Committee
+Graduation Party
+*School of Life Sciences and Technology, Tongji University*
 
 - 2022  
 Volunteer of PCR Test for COVID-19  
