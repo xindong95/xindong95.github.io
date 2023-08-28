@@ -74,7 +74,7 @@ conda commands available from other packages:
 
 You can switch between the environments with `conda activate env_name` and `conda deactivate`. And you can install packages by `conda install`. You also can search whether a package has a conda distribution here: [https://anaconda.org](https://anaconda.org).  
 
-Conda has many channels that collect a category of packages, like conda-forge, bioconda, r, etc. You can create your own channel with your packages as well. Conda can install most of the packages that you need. For example, you can install R by conda install -c conda-forge r-base.
+Conda has many channels that collect a category of packages, like conda-forge, bioconda, r, etc. You can create your own channel with your packages as well. Conda can install most of the packages that you need. For example, you can install R by `conda install -c conda-forge r-base`.
 
 ![conda r base](/assets/images/posts_images/2020-09/conda-r-base.png)
 

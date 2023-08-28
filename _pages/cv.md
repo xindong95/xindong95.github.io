@@ -73,6 +73,7 @@ School of Life Sciences, Shandong Normal University, China
 ## CONFERENCES
 
 - 2023
+  - Poster Speaking, The WLA Research Conference on Cells and Genes, 2023, Shanghai, China
   - Poster Speaking, 11st National Conference on Bioinformatics and Systems Biology, 2023, Guangzhou, China
 
 - 2021
