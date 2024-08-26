@@ -4,15 +4,15 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2024-02-01
+last_modified_at: 2024-08-01
 ---
 
 PDF Version [[CV](/assets/pdf/cv/CV_XinDong.pdf)]
 
 ## EDUCATION
 
-**Sep.2020 – Now**  
-Ph.D. Candidate in Bioinformatics  
+**Sep.2020 – Jul.2024**  
+Ph.D. in Bioinformatics  
 School of Life Sciences and Technology, Tongji University, China  
 <!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->
 
@@ -28,7 +28,7 @@ School of Life Sciences, Shandong Normal University, China
 
 ## RESEARCH EXPERIENCE
 
-### Graduate Student, Tongji University (2018-Present)
+### Graduate Student, Tongji University (2018-2024)
 
 - Developed and applied computational methods to analyze single-cell and spatial data  
 <!-- **Institute:** Tongji University, China   -->
@@ -86,52 +86,27 @@ School of Life Sciences, Shandong Normal University, China
 
 ## TEACHING
 
-- 2023  
-Teaching assistant, Summer Deep Learning Course, School of Life Sciences and Technology, Tongji University, 2023, Shanghai, China
-
-- 2022  
-Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2022, Shanghai, China
-
-- 2021  
-Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2021, Shanghai, China
-
-- 2020  
-Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2020, Shanghai, China
-
-- 2019  
-Teaching assistant, Dragon Star Course, 14th International Bioinformatics Workshop, 2019, Beijing, China
+- Teaching assistant, Summer Deep Learning Course, School of Life Sciences and Technology, Tongji University, 2023, Shanghai, China
+- Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2022, Shanghai, China
+- Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2021, Shanghai, China
+- Teaching assistant, Summer Bioinformatics Course, School of Life Sciences and Technology, Tongji University, 2020, Shanghai, China
+- Teaching assistant, Dragon Star Course, 14th International Bioinformatics Workshop, 2019, Beijing, China
 
 ## AWARDS AND DISTINCTIONS
 
-- 2023
-  - 17th Academic Pioneer, *Tongji University*
-  - National Scholarship, *Ministry of Education of the People’s Republic of China*
+- 17th Academic Pioneer, *Tongji University*, 2023
+- National Scholarship, *Ministry of Education of the People’s Republic of China*, 2023
+- Outstanding Student Leader, *Tongji University*, 2022
+- Social Activities Scholarship, *Tongji University*, 2022
+- Outstanding Graduate Student Scholarship, *Tongji University*, 2019
+- Outstanding Dissertation for Bachelor’s Degree, *Shandong Normal University*, 2018
+- Outstanding Graduates Awards of Shandong Province, *Human Resources and Social Security Department of Shandong Province*, 2017
+- The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Association for Science and Technology*, 2017
+- Outstanding Student Leader in Shandong, *Shandong Provincial Education Department*, 2017
+- The Grand Prize of Shandong College Students' Biochemistry Experiment Skills Competition, *Shandong Association of Science & Technology*, 2016
+- Alumni Scholarship, *School of Life Sciences of Shandong Normal University*, 2016
 
-- 2022
-  - Outstanding Student Leader, *Tongji University*
-  - Social Activities Scholarship, *Tongji University*
-
-- 2019
-  - Outstanding Graduate Student Scholarship, *Tongji University*
-
-- 2018
-  - Outstanding Dissertation for Bachelor’s Degree, *Shandong Normal University*  
-
-- 2017  
-  - Outstanding Graduates Awards of Shandong Province, *Human Resources and Social Security Department of Shandong Province*  
-  - The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Association for Science and Technology*  
-  - Outstanding Student Leader in Shandong, *Shandong Provincial Education Department*  
-
-- 2016
-  - The Grand Prize of Shandong College Students' Biochemistry Experiment Skills Competition, *Shandong Association of Science & Technology*  
-  - Advanced Individual of External Publicity, *Shandong Normal University*  
-  - Alumni Scholarship, *School of Life Sciences of Shandong Normal University*  
-
-- 2015
-  - Outstanding Student Leader of The Students’ Union, *Shandong Normal University*  
-  - Advanced Individual of Campus Cultural Activities, *Shandong Normal University*  
-
-## LEADERSHIP AND PUBLIC SERVICE
+<!-- ## LEADERSHIP AND PUBLIC SERVICE
 
 - 2023  
 Director, Chairman of Organizing Committee  
@@ -167,4 +142,4 @@ Committee Member of Network Department
 
 - 2014 – 2015  
 Member of Rights and Interests Department  
-*Students’ Union, Shandong Normal University*
+*Students’ Union, Shandong Normal University* -->
