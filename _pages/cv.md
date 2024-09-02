@@ -31,10 +31,13 @@ School of Life Sciences, Shandong Normal University, China
 ### Graduate Student, Tongji University (2018-2024)
 
 - Developed and applied computational methods to analyze single-cell and spatial data  
+  - We developed [SCRIP (**S**ingle-**C**ell Gene **R**egulation **I**nference using ChI**P**-seq)](https://github.com/wanglabtongji/SCRIP), a method that integrates scATAC-seq and a large collection of bulk TR (Transcription Regulator) ChIP-seq to infer single-cell TR activity and targets. Our method outperformed other motif-based approaches in assessing TR binding activity. It also enabled us to identify TR target genes and construct GRNs (Gene Regulation Networks) at the single-cell level using a regulatory potential model. We applied SCRIP to various biological systems and showed its utility in lineage tracing, cell-type clustering, and inferring cell-type-specific GRNs.  
+  - We developed [TISCH (**T**umor **I**mmune **S**ingle **C**ell **H**ub)](http://tisch.comp-genomics.org), a large curated resource that integrates the single-cell transcriptome profiles of about 2 million cells from 76 high-quality tumor datasets across 27 cancer types. TISCH allows systematic comparison of gene expression across multiple datasets at the single-cell or cluster level for various cell types, patients, tissue origins, treatment and response groups, and even cancer types. TISCH aims to address the computational challenges of using the massive published datasets to inform immunotherapy and to characterize the immune system heterogeneity in cancers.  
 <!-- **Institute:** Tongji University, China   -->
 <!-- **Advisors:** Dr. Chenfei Wang & Dr. Xiaole Shirley Liu  -->  
 
 - Large-scale genomic data mining and integration analysis  
+  - We developed [CHIPS (**CH**romatin enr**i**chment **P**roce**S**sor)](https://github.com/liulab-dfci/CHIPS), a pipeline that processes the epigenome data to readable results with a single command line. It integrates states-of-art tools for cistrome NGS data and chooses the appropriate analysis parameters. It uses the Snakemake framework, which makes it easy to deploy on cloud or cluster servers.
 <!-- **Institute:** Tongji University, China   -->
 <!-- **Advisor:** Dr. Xiaole Shirley Liu & Dr. Clifford Meyer  -->  
 
@@ -72,17 +75,20 @@ School of Life Sciences, Shandong Normal University, China
 
 ## CONFERENCES
 
+- 2024
+  - Poster Speaking, The 2nd Yangtze River Delta Bioinformatics Conference, Shanghai, China
+
 - 2023
   - Poster Speaking, Systems biology of gene regulation and genome editing, Cold Spring Harbor Conferences Asia, Suzhou, China  
-  - Poster Speaking, The WLA Research Conference on Cells and Genes, 2023, Shanghai, China
-  - Poster Speaking, 11st National Conference on Bioinformatics and Systems Biology, 2023, Guangzhou, China
+  - Poster Speaking, The WLA Research Conference on Cells and Genes, Shanghai, China
+  - Poster Speaking, 11st National Conference on Bioinformatics and Systems Biology, Guangzhou, China
 
 - 2021
-  - Poster Speaking, Human Cell Atlas Asia 2021 Meeting, 2021, Online  
-  - Poster Speaking, 10th National Conference on Bioinformatics and Systems Biology, 2021, Chengdu, China
+  - Poster Speaking, Human Cell Atlas Asia 2021 Meeting, Online  
+  - Poster Speaking, 10th National Conference on Bioinformatics and Systems Biology, Chengdu, China
 
 - 2019  
-  - Attendance, 14th International Bioinformatics Workshop, 2019, Beijing, China
+  - Attendance, 14th International Bioinformatics Workshop, Beijing, China
 
 ## TEACHING
 
@@ -94,6 +100,7 @@ School of Life Sciences, Shandong Normal University, China
 
 ## AWARDS AND DISTINCTIONS
 
+- Outstanding Graduates Awards of Shanghai, *Shanghai Municipal Education Commission*, 2024
 - 17th Academic Pioneer, *Tongji University*, 2023
 - National Scholarship, *Ministry of Education of the People’s Republic of China*, 2023
 - Outstanding Student Leader, *Tongji University*, 2022
