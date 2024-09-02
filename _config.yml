@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Xin Dong"
   avatar           : "/assets/images/bio-photo-mini.jpg"
-  bio              : "PhD at Tongji University."
+  bio              : "PhD in Bioinformatics."
   location         : "Shanghai, China"
   links:
     - label: "Email"
