@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 author_profile: true
-last_modified_at: 2024-10-023
+last_modified_at: 2024-10-23
 ---
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=gzrxBacAAAAJ)] [[ORCID](https://orcid.org/0000-0002-7112-0224)] [[PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1d30fkpMdF_kft/bibliography/public/)]
