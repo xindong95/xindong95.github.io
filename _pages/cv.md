@@ -44,7 +44,7 @@ School of Life Sciences, Shandong Normal University, China
 - The origin, adaptive evolution and population dynamics of infectious Chicken Anemia Virus in China  
 *Undergraduate Innovation Program (Involved)*  
 
-- Diversity of fish in Nansi Lak
+- Diversity of fish in Nansi Lake  
 *Undergraduate Innovation Program (Involved)*  
 
 ## Skills
