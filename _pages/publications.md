@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 layout: single
 author_profile: true
-last_modified_at: 2024-02-01
+last_modified_at: 2024-10-023
 ---
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=gzrxBacAAAAJ)] [[ORCID](https://orcid.org/0000-0002-7112-0224)] [[PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1d30fkpMdF_kft/bibliography/public/)]
@@ -12,7 +12,7 @@ last_modified_at: 2024-02-01
 
 <!-- - title [[Web]()] [[Abstract](https://pubmed.ncbi.nlm.nih.gov/)] [[PDF](/assets/pdf/papers)] -->
 
-- Chang, Z.\*, Xu, Y.\*, **Dong, X.\***, Gao, Y.# & Wang, C.# Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro. *Bioinformatics* 40, btae466 (2024). [[Web](https://academic.oup.com/bioinformatics/article/40/7/btae466/7716542?login=true)]
+- Chang, Z.\*, Xu, Y.\*, **Dong, X.\***, Gao, Y. & Wang, C.# Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro. *Bioinformatics* 40, btae466 (2024). [[Web](https://academic.oup.com/bioinformatics/article/40/7/btae466/7716542?login=true)]
 
 - Sun, F.\*, Li, H.\*, Sun, D.\*, Fu, S.\*, Gu, L.\*, Shao, X.\*, Wang, Q.\*, **Dong, X.\***, Duan, B.\*, Xing, F.\*, Wu, J.\*, Xiao, M.#, Zhao, F.#, Han, J.-D. J.#, Liu, Q.#, Fan, X.#, Li, C.#, Wang, C.# & Shi, T.# Single-cell omics: experimental workflow, data analyses and applications. *SCIENCE CHINA Life Sciences* (2024). [[Web](https://link.springer.com/article/10.1007/s11427-023-2561-0)]
 

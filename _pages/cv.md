@@ -4,7 +4,7 @@ title: "CV"
 layout: single
 toc: true
 author_profile: true
-last_modified_at: 2024-08-01
+last_modified_at: 2024-10-01
 ---
 
 PDF Version [[CV](/assets/pdf/cv/CV_XinDong.pdf)]
@@ -104,49 +104,9 @@ School of Life Sciences, Shandong Normal University, China
 - 17th Academic Pioneer, *Tongji University*, 2023
 - National Scholarship, *Ministry of Education of the People’s Republic of China*, 2023
 - Outstanding Student Leader, *Tongji University*, 2022
-- Social Activities Scholarship, *Tongji University*, 2022
 - Outstanding Graduate Student Scholarship, *Tongji University*, 2019
 - Outstanding Dissertation for Bachelor’s Degree, *Shandong Normal University*, 2018
 - Outstanding Graduates Awards of Shandong Province, *Human Resources and Social Security Department of Shandong Province*, 2017
 - The First Prize of The Fifteenth Challenge Cup Competition in Shandong, *Shandong Association for Science and Technology*, 2017
 - Outstanding Student Leader in Shandong, *Shandong Provincial Education Department*, 2017
 - The Grand Prize of Shandong College Students' Biochemistry Experiment Skills Competition, *Shandong Association of Science & Technology*, 2016
-- Alumni Scholarship, *School of Life Sciences of Shandong Normal University*, 2016
-
-<!-- ## LEADERSHIP AND PUBLIC SERVICE
-
-- 2023  
-Director, Chairman of Organizing Committee  
-*Graduation Party of School of Life Sciences and Technology, Tongji University*
-
-- 2022  
-Volunteer of PCR Test for COVID-19  
-*Liferiver Bio-Tech Corp., Shanghai, China*
-
-- 2020  
-Census Taker  
-*7th Census of China*  
-
-- 2016 – 2017  
-Vice-president, Chairman of Executive Committee  
-*Students’ Union, Shandong Normal University*
-
-- 2015 – 2016  
-Head of Literatures and Arts Department  
-*Students’ Union, Shandong Normal University*
-
-- 2016  
-Chairman of Organizing Committee  
-*30th Top Ten Campus Singers Competition of Shandong Normal University*
-
-- 2015  
-Chairman of Organizing Committee  
-*Golden Microphone Host Competition of Shandong Normal University*
-
-- 2015 – 2016  
-Committee Member of Network Department  
-*Students’ Union, School of Life Sciences, Shandong Normal University*
-
-- 2014 – 2015  
-Member of Rights and Interests Department  
-*Students’ Union, Shandong Normal University* -->
