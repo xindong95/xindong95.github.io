@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : UA-178160416-1
+    tracking_id          : G-XP9W422865
     anonymize_ip         : # true, false (default)
 
 
@@ -100,8 +100,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:xindong9511@gmail.com"
-    - label: "X (Twitter)"
+      url: "mailto:xindongnov@gmail.com"
+    - label: "X"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/xindongnov"
     - label: "GitHub"
@@ -114,8 +114,8 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:xindong9511@gmail.com"
-    - label: "X (Twitter)"
+      url: "mailto:xindongnov@gmail.com"
+    - label: "X"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://twitter.com/xindongnov"
     # - label: "Facebook"
