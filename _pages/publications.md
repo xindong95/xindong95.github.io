@@ -6,7 +6,7 @@ author_profile: true
 last_modified_at: 2024-10-23
 ---
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=gzrxBacAAAAJ)] [[ORCID](https://orcid.org/0000-0002-7112-0224)] [[PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1d30fkpMdF_kft/bibliography/public/)]
+[[Google Scholar](https://scholar.google.com/citations?user=IY1h8wYAAAAJ&hl=en)] [[ORCID](https://orcid.org/0000-0002-7112-0224)] [[PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1d30fkpMdF_kft/bibliography/public/)]
 
 *Asterisk (\*) denotes the Co-first Authors and Hashtag (#) denotes the Corresponding Authors.*
 
